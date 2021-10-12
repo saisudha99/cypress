@@ -1,0 +1,21 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=4727
+END=6063
+title=validate the confirm alert one
+[CHAPTER]
+TIMEBASE=1/1000
+START=7039
+END=7402
+title=validate the confirm alert two
+[CHAPTER]
+TIMEBASE=1/1000
+START=7135
+END=7767
+title=validate modal
+[CHAPTER]
+TIMEBASE=1/1000
+START=8088
+END=8402
+title=verify the alert validate the normal alert

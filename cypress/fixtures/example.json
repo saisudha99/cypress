@@ -1,0 +1,22 @@
+{
+  "dad": {
+    "firstName": "venkat",
+    "lastName": "reddy",
+    "email": "chvrreddy@gmail.com",
+    "comments": "hello"
+  },
+  "mom": {
+    "firstName": "manga",
+    "lastName": "chirla",
+    "email": "mangachirla@gmail.com",
+    "comments": "hello"
+  },
+  
+  "bro": {
+    "firstName": "srikanth",
+    "lastName": "reddy",
+    "email": "srikanthreddychirla@gmail.com",
+    "comments": "hello"
+  }
+  
+}

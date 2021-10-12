@@ -1,0 +1,15 @@
+{
+    "admin": {
+        "username": "siva shankar reddy",
+        "password": "hubby"
+        
+    },
+    "customer": {
+        "username": "sathvik kumar reddy",
+        "password": "elderson"
+    },
+    "merchant": {
+        "username": "kaushik kumar reddy",
+        "password": "youngerson"
+    }
+}
